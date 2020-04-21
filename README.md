@@ -2,7 +2,8 @@
 
 # GraphQL + React Event Booking API
 
-#This is a test project given by the  "Sarayu Digital Labs" 
+
+# This is a test project given by the  "Sarayu Digital Labs" 
 
 as a part of Mobile App Development internship
 
